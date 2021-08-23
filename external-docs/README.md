@@ -1,5 +1,5 @@
-External Documents for I2C Class Using NUCLEO-F401RE
-====================================================
+External Documents for YouTube course: I2C: Theory and Practice Using STM32
+===========================================================================
 
 # I2C
 
