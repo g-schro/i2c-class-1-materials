@@ -1,5 +1,5 @@
-External Documents for YouTube course: I2C: Theory and Practice Using STM32
-===========================================================================
+External Documents for YouTube course: I2C: Theory and Practice on Bare Metal STM32
+===================================================================================
 
 # I2C
 

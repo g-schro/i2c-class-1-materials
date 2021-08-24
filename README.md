@@ -1,8 +1,8 @@
-Course Materials for YouTube course: I2C: Theory and Practice Using STM32
-========================================================================
+Course Materials for YouTube course: I2C: Theory and Practice on Bare Metal STM32
+=================================================================================
 
-This repo contains course materials for my YouTube course **I2C: Theory and Practice Using
-STM32**.  This course consists of around four video lessons.
+This repo contains course materials for my YouTube course **I2C: Theory and
+Practice on Bare Metal STM32**. This course consists of five videos.
 
 Currently this repo just contains documents (I2C specification, data sheets,
 etc.) that can be found
